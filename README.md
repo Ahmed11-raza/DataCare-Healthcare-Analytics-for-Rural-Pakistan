@@ -6,7 +6,7 @@
 
 > A data analytics project demonstrating healthcare access analysis for rural Pakistani districts. Created for my University of Messina BSc Data Analytics application.
 
-## 📊 Project Overview
+##  Project Overview
 
 **DataCare** analyzes simulated district-level healthcare data to identify access challenges and prioritize interventions. This project shows my ability to:
 
@@ -16,7 +16,7 @@
 - Generate actionable insights
 - Communicate findings through visualizations
 
-## 🎯 Why This Project?
+##  Why This Project?
 
 Coming from Pakistan, I've seen how data gaps contribute to healthcare inequalities. This project applies data analytics to:
 1. Identify districts with critical healthcare access issues
@@ -24,7 +24,7 @@ Coming from Pakistan, I've seen how data gaps contribute to healthcare inequalit
 3. Predict areas needing urgent intervention
 4. Provide data-driven recommendations for resource allocation
 
-## 🔧 Technical Implementation
+##  Technical Implementation
 
 ### Core Components:
 1. **HealthcareDataAnalyzer** - Data processing and analysis
@@ -45,7 +45,7 @@ Coming from Pakistan, I've seen how data gaps contribute to healthcare inequalit
 - **Matplotlib** - Data visualization
 - **Statistical Analysis** - Correlation, regression, clustering concepts
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 # Clone the repository
